@@ -1,0 +1,27 @@
+body{
+    background-color:  antiquewhite;
+}
+.headings{
+    background-color: darkseagreen;
+    
+}
+h2{
+    background-color: #C58940;
+    padding-left: 0%;
+    
+}
+h1{
+    padding-left: 40%;
+}
+.image{
+    margin-top: 5%;
+}
+.skills{
+    padding-left: 0%;
+}
+.education{
+    padding-left: 0%;
+}
+.softskills{
+    padding-left: 0%;
+}
